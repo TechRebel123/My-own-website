@@ -1,0 +1,109 @@
+.center{
+    text-align: center;
+    margin-top: 18em;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    letter-spacing: 0.5em;
+    color: darkblue;
+    text-decoration: underline;
+}
+.search{
+    width: 30%;
+    margin-left: 35%;
+    font-size: large;
+    padding-top: 0.8%;
+    padding-bottom: 0.8%;
+    border-top-right-radius: 10%;
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 10%;
+}
+
+body{
+    background-image: url('webwall6.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.submit{
+    margin-left: 935px;
+    height: 40px;
+    width: 60px;
+    margin-top: -40px;
+    border: none;
+    border-radius: 10px;
+    background-color: aqua;
+    position: fixed;
+    top: 62%;
+    bottom: 50%;
+}
+
+.submit:hover {
+    background-color:green;
+    transition: 0.5s;
+}
+
+.login{
+    position: fixed;
+    top: 5%;
+    bottom: 50%;
+    right: 10%;
+}
+
+.buttonlogin{
+    background-color: aquamarine;
+}
+
+.buttonlogin:hover{
+    background-color:green;
+    transition: 0.5s;
+}
+
+.help{
+    position: fixed;
+    top: 5%;
+    bottom: 50%;
+    right: 3%;
+}
+
+.helpbutton:hover{
+    background-color:green;
+    transition: 0.5s;
+}
+
+.helpbutton{
+    background-color: aquamarine;
+}
+
+.customer_service{
+    position:fixed;
+    top: 5%;   
+}
+
+.loginpage{
+    text-align: center;
+    margin-top: 20%;
+}
+
+.signupbutton{
+    background-color: aquamarine;
+}
+
+.signupbutton:hover{
+    background-color:green;
+    transition: 0.5s;
+}
+
+.signuppage{
+    text-align: center;
+    margin-top: 20%;
+}
+
+.helppage{
+    text-align: center;
+}
+
+.customerpage{
+    text-align: center;
+}
